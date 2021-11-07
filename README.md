@@ -36,7 +36,7 @@ THEN I exit the application, and the HTML is generated
 
 
 ## Walkthrough Video
-* https://watch.screencastify.com/v/QzmJnAFKmYOikHGbWgkT
+* https://watch.screencastify.com/v/ugYaTzkUlQu2CYixuxAZ
 
 ## Github Repository URL
 
